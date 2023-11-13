@@ -1,0 +1,7 @@
+Dear Daniel, 
+
+in the attachment, you will find your daily temperature forecast for Krakow city. In case of rain, you can expect to receive a notification via SMS.
+
+
+Kind Regards,
+Your Weather App
